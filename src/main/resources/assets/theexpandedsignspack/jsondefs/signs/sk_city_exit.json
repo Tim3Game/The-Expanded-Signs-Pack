@@ -1,0 +1,59 @@
+{
+  "general": {
+    "font" : "default",
+    "textLines" : [
+      {
+        "characters" : 16,
+        "xPos" : 0.50,
+        "yPos" : 0.60,
+        "scale" : 0.35,
+        "color" : "0x000000"
+      },
+      {
+        "characters" : 16,
+        "xPos" : 0.50,
+        "yPos" : 0.55,
+        "scale" : 0.30,
+        "color" : "0x000000"
+      },
+      {
+        "characters" : 16,
+        "xPos" : 0.50,
+        "yPos" : 0.57,
+        "scale" : 0.25,
+        "color" : "0x000000"
+      },
+
+
+
+      {
+        "characters" : 16,
+        "xPos" : 0.5,
+        "yPos" : 0.63,
+        "scale" : 0.25,
+        "color" : "0x000000"
+      },
+      {
+        "characters" : 16,
+        "xPos" : 0.5,
+        "yPos" : 0.50,
+        "scale" : 0.25,
+        "color" : "0x000000"
+      },
+      {
+        "characters" : 16,
+        "xPos" : 0.5,
+        "yPos" : 0.60,
+        "scale" : 0.20,
+        "color" : "0x000000"
+      },
+      {
+        "characters" : 16,
+        "xPos" : 0.5,
+        "yPos" : 0.50,
+        "scale" : 0.20,
+        "color" : "0x000000"
+      }
+    ]
+  }
+}

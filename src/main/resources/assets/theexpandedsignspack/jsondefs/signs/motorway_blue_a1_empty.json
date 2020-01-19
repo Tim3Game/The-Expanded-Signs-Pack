@@ -1,0 +1,14 @@
+{
+  "general": {
+    "font" : "default",
+    "textLines" : [
+      {
+        "characters" : 16,
+        "xPos" : 0.5,
+        "yPos" : 0.2,
+        "scale" : 0.40,
+        "color" : "0xffffff"
+      }
+    ]
+  }
+}
