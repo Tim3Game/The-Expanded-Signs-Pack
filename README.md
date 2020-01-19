@@ -1,11 +1,13 @@
 # The Expanded Signs Pack
-![](https://github.com/Tim3Game/The-Expanded-Signs-Pack/src/main/resources/assets/packLogo.png)
+![](https://raw.githubusercontent.com/Tim3Game/The-Expanded-Signs-Pack/1.10.2/src/main/resources/packLogo.png)
 
 ![](https://img.shields.io/github/issues/Tim3Game/The-Expanded-Signs-Pack?style=flat-square) ![](https://img.shields.io/github/stars/Tim3Game/The-Expanded-Signs-Pack?style=flat-square) ![](https://img.shields.io/github/forks/Tim3Game/The-Expanded-Signs-Pack?style=flat-square ) ![](https://img.shields.io/github/release/Tim3Game/The-Expanded-Signs-Pack?style=flat-square)
 ![](https://cf.way2muchnoise.eu/full_333267_downloads.svg) ![](https://cf.way2muchnoise.eu/versions/333267.svg)
-![](https://cf.way2muchnoise.eu/packs/333267.svg)
+##Announcement
+I decided not to personally contribute actively to the pack. It may happen that I add something from time to time, but unless the Immersive Vehicle traffic sign system is changed, I find it unnecessary to create large-scale traffic signs. It is difficult and takes a lot of time and I would rather invest it in redoing the sign system rather than creating them so complicated.
+
 ## How is the pack updated
-I will look once in a while, if there are some new signs added, and if, then I export a new jar and add it to [Releases](https://github.com/Tim3Game/The-Expanded-Signs-Pack/releases "Releases") and on [Curse](https://www.curseforge.com/minecraft/mc-mods/the-expanded-signs-pack-iv-mts "Curse"). If you want, you can fork or download this repo and export it your self, but you can't reupload it on Curse or elsewhere, but you cant for instance send it to your friends or use it on your server/modpack.
+I will look once in a while, if there are some new signs added, and if, then I export a new jar and add it to [Releases](https://github.com/Tim3Game/The-Expanded-Signs-Pack/releases "Releases") and on [Curse](https://www.curseforge.com/minecraft/mc-mods/the-expanded-signs-pack-iv-mts "Curse"). If you want, you can fork or download this repo and export it your self, but you can't reupload it on Curse or elsewhere, but you can, for instance, send it to your friends or use it on your server/modpack with respective credits.
 
 ## How to contribute
 ### Forking
