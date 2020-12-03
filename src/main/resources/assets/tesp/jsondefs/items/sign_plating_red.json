@@ -1,0 +1,6 @@
+{
+  "general": {
+    "name" : "Sign Base - Red",
+    "materials" : ["minecraft:heavy_weighted_pressure_plate:0:1", "minecraft:dye:1:1"]
+  }
+}

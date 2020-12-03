@@ -1,0 +1,12 @@
+{
+  "general": {
+    "name": "§6[WIP] §fHighway Base - Green",
+    "description": "§4§lUSE AT OWN RISK ! CAN CHANGE, OR EVEN BE REMOVED !",
+    "materials" : ["mts:tesp.sign_plating_green:0:6", "minecraft:dye:15:6"],
+    "width": 3,
+    "height": 2,
+    "depth": 1,
+    "modelName": "sign_highway_horizontal",
+    "type": "sign"
+  }
+}

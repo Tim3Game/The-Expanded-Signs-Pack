@@ -1,0 +1,11 @@
+{
+  "general": {
+    "name": "Highway - end",
+    "materials" : ["mts:tesp.sign_plating_white:0:1", "minecraft:dye:0:1"],
+    "width": 1,
+    "height": 1,
+    "depth": 1,
+    "modelName": "sign_one",
+    "type": "sign"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "credits": {
+    "Tim3Game": [
+      "parking",
+      "parking_reserve",
+      "sign_licence-plate",
+      "sk_detour_left",
+      "sk_detour_left_text",
+      "sk_detour_right",
+      "sk_detour_right_text"
+    ],
+    "ThePCJakub": [
+      "sign_one",
+      "sign_two_ver_bottom",
+      "sign_two_ver_top"
+    ]
+  }
+}

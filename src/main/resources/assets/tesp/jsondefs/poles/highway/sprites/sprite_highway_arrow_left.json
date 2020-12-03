@@ -1,0 +1,12 @@
+{
+  "general": {
+    "name": "§6[WIP] §fHighway Sprite - Arrow Left",
+    "description": "§4§lUSE AT OWN RISK ! CAN CHANGE, OR EVEN BE REMOVED !",
+    "materials" : ["minecraft:dye:15:1"],
+    "width": 1,
+    "height": 1,
+    "depth": 1,
+    "modelName": "sprite_sign",
+    "type": "sign"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "name": "Road number - Green",
+    "materials" : ["mts:tesp.sign_plating_green:0:1", "minecraft:dye:15:1"],
+    "modelName": "sign_one",
+    "type": "sign",
+    "textObjects" : [
+      {
+        "pos": [
+          0.015,
+          0.6,
+          0.001
+        ],
+        "rot": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale" : 0.5,
+        "fieldName": "Road Number",
+        "color": "0xDDDDDD",
+        "maxLength": 5,
+        "autoScale": true,
+        "wrapWidth": 12
+      }
+    ]
+  }
+}

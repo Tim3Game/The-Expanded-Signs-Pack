@@ -1,0 +1,24 @@
+{
+  "general": {
+    "name": "Parking - Licence Plate",
+    "description": "Tell everyone who's place it is !",
+    "materials" : ["mts:tesp.sign_plating_white:0:1", "minecraft:dye:0:1"],
+    "width": 1,
+    "height": 1,
+    "depth": 1,
+    "modelName": "sign_one",
+    "type": "sign",
+    "textObjects" : [
+      {
+        "pos": [0.01, 0.30, 0.001],
+        "rot": [0.0, 0.0, 0.0],
+        "scale": 0.28,
+        "fieldName": "License Plate",
+        "color": "0x000000",
+        "maxLength": 10,
+        "autoScale": true,
+        "wrapWidth": 14
+      }
+    ]
+  }
+}

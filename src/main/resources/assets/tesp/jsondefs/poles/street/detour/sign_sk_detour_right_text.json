@@ -1,0 +1,46 @@
+{
+  "general": {
+    "name": "Detour - right /w text",
+    "materials" : ["mts:tesp.sign_plating_yellow:0:1", "minecraft:dye:0:1"],
+    "width": 1,
+    "height": 1,
+    "depth": 1,
+    "modelName": "sign_one",
+    "type": "sign",
+    "textObjects" : [
+      {
+        "pos": [-0.43, 0.56, 0.001],
+        "rot": [0.0, 0.0, 0.0],
+        "scale": 0.28,
+        "fieldName": "One liner",
+        "color": "0x000000",
+        "renderPosition": 1,
+        "maxLength": 16,
+        "autoScale": true,
+        "wrapWidth": 11
+      },
+      {
+        "pos": [-0.43, 0.64, 0.001],
+        "rot": [0.0, 0.0, 0.0],
+        "scale": 0.28,
+        "fieldName": "Two liner - Top",
+        "color": "0x000000",
+        "renderPosition": 1,
+        "maxLength": 16,
+        "autoScale": true,
+        "wrapWidth": 11
+      },
+      {
+        "pos": [-0.43, 0.48, 0.001],
+        "rot": [0.0, 0.0, 0.0],
+        "scale": 0.28,
+        "fieldName": "Two liner - Bottom",
+        "color": "0x000000",
+        "renderPosition": 1,
+        "maxLength": 16,
+        "autoScale": true,
+        "wrapWidth": 11
+      }
+    ]
+  }
+}

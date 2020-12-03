@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mts:item/basic",
+	"textures": {
+		"layer0": "theexpandedsignspack:items/poles/parking"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [26, 0, 0]
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "general": {
+    "name": "Parking",
+    "materials" : ["mts:tesp.sign_plating_blue:0:2", "minecraft:dye:15:2"],
+    "width": 1,
+    "height": 1,
+    "depth": 1,
+    "modelName": "sign_two_ver_top",
+    "type": "sign"
+  }
+}

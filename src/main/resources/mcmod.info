@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "tesp",
+    "name": "TheExpandedSignsPack",
+    "description": "A Immersive Vehicles Pack that adds mostly road signs",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/Tim3Game/The-Expanded-Signs-Pack",
+    "updateUrl": "",
+    "authorList": [
+      "Tim3Game"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

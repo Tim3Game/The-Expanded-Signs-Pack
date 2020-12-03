@@ -1,0 +1,12 @@
+{
+  "general": {
+    "name": "§5[EXP] §fBillboard - Granica Państva",
+    "description": "§5EXPERIMENTAL\n§4§lUSE AT OWN RISK ! CAN CHANGE, OR EVEN BE REMOVED !",
+    "materials" : [],
+    "width": 5,
+    "height": 9,
+    "depth": 1,
+    "modelName": "billboard_5_9",
+    "type": "sign"
+  }
+}

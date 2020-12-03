@@ -1,0 +1,6 @@
+{
+  "parent":"theexpandedsignspack:item/sign",
+  "textures": {
+    "layer0": "theexpandedsignspack:items/poles/highway_sprite_arrow_right"
+  }
+}

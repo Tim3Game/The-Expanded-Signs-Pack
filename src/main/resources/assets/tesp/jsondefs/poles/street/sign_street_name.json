@@ -1,0 +1,54 @@
+{
+  "general": {
+    "name": "§5[EXP] §fStreet Sign - Name",
+    "description": "§5EXPERIMENTAL\n§4§lUSE AT OWN RISK ! CAN CHANGE, OR EVEN BE REMOVED !",
+    "materials" : ["mts:tesp.sign_plating_yellow:0:1", "minecraft:dye:0:1"],
+    "width": 1,
+    "height": 1,
+    "depth": 1,
+    "modelName": "sign_street_name",
+    "type": "sign",
+    "textObjects": [
+      {
+        "pos": [
+          0.55,
+          0.61,
+          1.51
+        ],
+        "rot": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": 0.28,
+        "fieldName": "Top line",
+        "maxLength": 10,
+        "wrapWidth": 0,
+        "color": "0x000000",
+        "lightsUp": false,
+        "renderMode": 0,
+        "colorInheritied": false
+      },
+      {
+        "pos": [
+          0.5,
+          0.49,
+          1.51
+        ],
+        "rot": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": 0.28,
+        "fieldName": "Bottom line",
+        "maxLength": 64,
+        "wrapWidth": 48,
+        "color": "0x000000",
+        "lightsUp": false,
+        "renderMode": 3,
+        "colorInheritied": false
+      }
+    ]
+  }
+}

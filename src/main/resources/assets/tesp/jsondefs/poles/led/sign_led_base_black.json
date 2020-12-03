@@ -1,0 +1,12 @@
+{
+  "general": {
+    "name": "§5[EXP] §fLED Base - Black",
+    "description": "§5EXPERIMENTAL\n§4§lUSE AT OWN RISK ! CAN CHANGE, OR EVEN BE REMOVED !",
+    "materials" : ["mts:tesp.sign_plating_black:0:2", "minecraft:dye:8:1"],
+    "width": 1,
+    "height": 2,
+    "depth": 1,
+    "modelName": "sign_two_ver_bottom",
+    "type": "sign"
+  }
+}
